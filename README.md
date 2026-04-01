@@ -37,3 +37,6 @@ PlayerProgressTracker — учет прогресса и счета.
 Текстуры дорог.
 
 Задний фон.
+
+<img width="337" height="600" alt="image" src="https://github.com/user-attachments/assets/8994a85a-f8c4-4833-8fb9-edc80299a89e" />
+
